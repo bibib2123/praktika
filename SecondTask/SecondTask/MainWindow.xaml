@@ -1,0 +1,29 @@
+﻿<Window x:Class="SecondTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SecondTask"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="full" Content="" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.107,0.211" Width="73"/>
+        <Label x:Name="over" Content="" HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Content="&#xD;&#xA;Задание 3&#xD;&#xA;" HorizontalAlignment="Left" Margin="46,16,0,0" VerticalAlignment="Top" Height="56" Width="92"/>
+        <Button x:Name="Buy" Content="Button" HorizontalAlignment="Left" Margin="308,70,0,0" VerticalAlignment="Top" Click="Buy_Click"/>
+        <TextBox x:Name="goldtext" HorizontalAlignment="Left" Margin="168,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Height="39"/>
+        <Label x:Name="cristalquantity" Content="" HorizontalAlignment="Left" Margin="290,130,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="TIME" Content="Button" HorizontalAlignment="Left" Margin="99,180,0,0" VerticalAlignment="Top" Click="TIME_Click"/>
+        <Label x:Name="L" Content="" HorizontalAlignment="Left" Margin="36,206,0,0" VerticalAlignment="Top" Width="381"/>
+        <TextBox x:Name="peoplee" HorizontalAlignment="Left" Margin="23,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="664,72,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBox x:Name="_1" HorizontalAlignment="Left" Margin="491,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="_2" HorizontalAlignment="Left" Margin="491,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="_3" HorizontalAlignment="Left" Margin="491,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="_4" HorizontalAlignment="Left" Margin="491,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="L1" Content="" HorizontalAlignment="Left" Margin="616,112,0,0" VerticalAlignment="Top" Height="103" Width="178"/>
+        <Label Content="Задание 6&#xD;&#xA;" HorizontalAlignment="Left" Margin="491,10,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label Content="Задание 5&#xD;&#xA;" HorizontalAlignment="Left" Margin="199,31,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.049,0.526"/>
+        <Label Content="Задание 4&#xD;&#xA;" HorizontalAlignment="Left" Margin="50,117,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
