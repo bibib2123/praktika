@@ -1,0 +1,8 @@
+C:\practic\1task\1Variant\1taskpractic'\obj\Debug\1taskpractic'.csproj.AssemblyReference.cache
+C:\practic\1task\1Variant\1taskpractic'\obj\Debug\1taskpractic'.csproj.SuggestedBindingRedirects.cache
+C:\practic\1task\1Variant\1taskpractic'\obj\Debug\MainWindow.g.cs
+C:\practic\1task\1Variant\1taskpractic'\obj\Debug\App.g.cs
+C:\practic\1task\1Variant\1taskpractic'\obj\Debug\1taskpractic'_MarkupCompile.cache
+C:\practic\1task\1Variant\1taskpractic'\obj\Debug\1taskpractic'_MarkupCompile.lref
+C:\practic\1task\1Variant\1taskpractic'\obj\Debug\1taskpractic'.exe
+C:\practic\1task\1Variant\1taskpractic'\obj\Debug\1taskpractic'.pdb
