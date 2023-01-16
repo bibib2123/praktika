@@ -1,0 +1,16 @@
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\bin\Debug\ThirdTask.exe.config
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\bin\Debug\ThirdTask.exe
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\bin\Debug\ThirdTask.pdb
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.AssemblyReference.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\MainWindow.g.cs
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\App.g.cs
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask_MarkupCompile.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask_MarkupCompile.lref
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\MainWindow.baml
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask.g.resources
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask.Properties.Resources.resources
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.GenerateResource.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask.exe
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\ThirdTask\ThirdTask\obj\Debug\ThirdTask.pdb
