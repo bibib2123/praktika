@@ -36,14 +36,14 @@ namespace FoursTask
         // Задание2
         private void a1_Click(object sender, RoutedEventArgs e)
         {
-            int x = Convert.ToInt32(c1.Text);
-            int result = 1;
-            do
+            int n = 1;
+            int r = 1;
+            n = Convert.ToInt32(c1.Text);
+            for (int i = 1; i <= n; i++)
             {
-                result *= x;
-                x -= 1;
-            } while (x > 0);
-            d1.Content = "Кол-во вариантов доставки = 0";
+                r = r * i;
+            }
+            d1.Content = r;
         }
         //Задание 4
         private void a2_Click(object sender, RoutedEventArgs e)
@@ -81,7 +81,7 @@ namespace FoursTask
         {
             for (int i = 10; i <= 20; i++)
             {
-             d4.Content += $"{Math.Pow(i, 2)}";
+             d4.Content += $"{Math.Pow(i, 2)}" + " ";
             }
         }
         // Задание 1
@@ -119,27 +119,27 @@ namespace FoursTask
                 {
                     case 0:
                         double x = Convert.ToDouble(payment.Text);
-                        g1.Content = x * 10 % 100;
+                        g1.Content = x * 1.0;
                         break;
                         case 1:
                         double y = Convert.ToDouble(payment.Text);
-                        g1.Content = y * 15 % 100;
+                        g1.Content = y * 1.5;
                         break;
                     case 2:
                         double z = Convert.ToDouble(payment.Text);
-                        g1.Content = z * 25 % 100;
+                        g1.Content = z * 2.5;
                         break;
                             case 3:
                         double h = Convert.ToDouble(payment.Text);
-                        g1.Content = h * 35 % 100;
+                        g1.Content = h * 3.5;
                         break;
                     case 4:
                         double v = Convert.ToDouble(payment.Text);
-                        g1.Content = v * 45 % 100;
+                        g1.Content = v * 4.5;
                         break;
                     case 5:
                         double m = Convert.ToDouble(payment.Text);
-                        g1.Content = m * 50 % 100;
+                        g1.Content = m * 5.0;
                         break;
 
 

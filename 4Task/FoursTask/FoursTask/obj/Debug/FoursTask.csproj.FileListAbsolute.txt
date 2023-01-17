@@ -14,3 +14,19 @@ C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask
 C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.CoreCompileInputs.cache
 C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.exe
 C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.pdb
+C:\practic\4Task\FoursTask\FoursTask\bin\Debug\FoursTask.exe.config
+C:\practic\4Task\FoursTask\FoursTask\bin\Debug\FoursTask.exe
+C:\practic\4Task\FoursTask\FoursTask\bin\Debug\FoursTask.pdb
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.AssemblyReference.cache
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.SuggestedBindingRedirects.cache
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\MainWindow.g.cs
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\App.g.cs
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask_MarkupCompile.cache
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask_MarkupCompile.lref
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\MainWindow.baml
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask.g.resources
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask.Properties.Resources.resources
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.GenerateResource.cache
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.CoreCompileInputs.cache
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask.exe
+C:\practic\4Task\FoursTask\FoursTask\obj\Debug\FoursTask.pdb

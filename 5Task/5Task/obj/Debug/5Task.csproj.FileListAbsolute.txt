@@ -1,0 +1,16 @@
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\bin\Debug\5Task.exe.config
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\bin\Debug\5Task.exe
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\bin\Debug\5Task.pdb
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task.csproj.AssemblyReference.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\MainWindow.g.cs
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\App.g.cs
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task_MarkupCompile.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task_MarkupCompile.lref
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\MainWindow.baml
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task.g.resources
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\_5Task.Properties.Resources.resources
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task.csproj.GenerateResource.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task.csproj.CoreCompileInputs.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task.exe
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\5Task\5Task\obj\Debug\5Task.pdb
