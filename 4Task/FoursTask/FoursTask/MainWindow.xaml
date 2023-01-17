@@ -1,0 +1,53 @@
+﻿<Window x:Class="FoursTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FoursTask"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="82*"/>
+            <RowDefinition Height="135*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="a1" Content="Посчитать&#xD;&#xA;" HorizontalAlignment="Left" Margin="49,99,0,0" VerticalAlignment="Top" Click="a1_Click" Height="18" Width="77"/>
+        <TextBox x:Name="c1" HorizontalAlignment="Left" Margin="126,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="d1" Content="" HorizontalAlignment="Left" Margin="53,146,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.199,0.23" Width="93" Grid.RowSpan="2"/>
+        <Button x:Name="a2" Content="Посчитать" HorizontalAlignment="Left" Margin="55,54,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.495,-0.114" Click="a2_Click" Height="22" Width="63" Grid.Row="1"/>
+        <Label x:Name="d2" Content="" HorizontalAlignment="Left" Margin="57,105,0,0" VerticalAlignment="Top" Width="197" Grid.Row="1"/>
+        <TextBox x:Name="c2" HorizontalAlignment="Left" Margin="132,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Row="1"/>
+        <Label Content="Ввод " HorizontalAlignment="Left" Margin="132,41,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Label Content="Вывод&#xD;&#xA;" HorizontalAlignment="Left" Margin="55,82,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.582,-0.203" Grid.Row="1"/>
+        <Label Content="Задание 4" HorizontalAlignment="Left" Margin="53,8,0,0" VerticalAlignment="Top" Background="#FF85ED69" Grid.Row="1"/>
+        <Label Content="Ввод" HorizontalAlignment="Left" Margin="126,76,0,0" VerticalAlignment="Top"/>
+        <Label Content="Вывод" HorizontalAlignment="Left" Margin="53,122,0,0" VerticalAlignment="Top"/>
+        <Label Content="Задание 2" HorizontalAlignment="Left" Margin="53,39,0,0" VerticalAlignment="Top" Width="73" Height="28" Background="#FF7AE579"/>
+        <Button x:Name="a3" Content="Посчитать&#xD;&#xA;" HorizontalAlignment="Left" Margin="330,96,0,0" VerticalAlignment="Top" Width="75" Click="a3_Click" Height="21" RenderTransformOrigin="0.718,1.201"/>
+        <TextBox x:Name="c3" HorizontalAlignment="Left" Margin="433,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="c3_TextChanged"/>
+        <Label x:Name="d3" Content="" HorizontalAlignment="Left" Margin="339,146,0,0" VerticalAlignment="Top" Grid.RowSpan="2" Width="92"/>
+        <Label x:Name="d" Content="Вывод" HorizontalAlignment="Left" Margin="340,120,0,0" VerticalAlignment="Top"/>
+        <Label Content="Задание 6&#xD;&#xA;" HorizontalAlignment="Left" Margin="335,42,0,0" VerticalAlignment="Top" Background="#FF84F077" Height="25"/>
+        <Button Content="Воспроизвести&#xD;&#xA;" HorizontalAlignment="Left" Margin="351,33,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Button_Click" RenderTransformOrigin="1.17,0.48" Height="21" Width="119"/>
+        <Label x:Name="d4" Content="" HorizontalAlignment="Left" Margin="330,61,0,0" Grid.Row="1" VerticalAlignment="Top" Height="42" Width="280"/>
+        <Label Content="Задание 3" HorizontalAlignment="Left" Margin="352,164,0,0" VerticalAlignment="Top" Background="#FF8DF066" Grid.RowSpan="2"/>
+        <Button Content="Посчитать&#xD;&#xA;" HorizontalAlignment="Left" Margin="53,240,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Button_Click_1" RenderTransformOrigin="0.199,2.376" Width="110"/>
+        <TextBox x:Name="b" HorizontalAlignment="Left" Margin="52,213,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="b_TextChanged"/>
+        <TextBox x:Name="a" HorizontalAlignment="Left" Margin="52,171,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="c5" Content="" HorizontalAlignment="Left" Margin="184,209,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.293,0.177" Width="104"/>
+        <Label x:Name="c6" Content="" HorizontalAlignment="Left" Margin="186,171,0,0" Grid.Row="1" VerticalAlignment="Top" Width="96"/>
+        <Label Content="A" HorizontalAlignment="Left" Margin="52,145,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label Content="B" HorizontalAlignment="Left" Margin="52,187,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label Content="Задание 1" HorizontalAlignment="Left" Margin="52,127,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120" Background="#FF90D140"/>
+        <ComboBox x:Name="choice" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Center" Width="120" Margin="470,0,0,0"/>
+        <Button x:Name="d5" Content="Посчитать&#xD;&#xA;" HorizontalAlignment="Left" Margin="470,169,0,0" Grid.Row="1" VerticalAlignment="Top" Width="108" Click="d5_Click"/>
+        <Label x:Name="g1" Content="" HorizontalAlignment="Left" Margin="612,174,0,0" Grid.Row="1" VerticalAlignment="Top" Width="95"/>
+        <TextBox x:Name="payment" HorizontalAlignment="Left" Margin="601,0,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <Label x:Name="g2" Content="" HorizontalAlignment="Left" Margin="417,235,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label Content="Зарплата&#xD;&#xA;" HorizontalAlignment="Left" Margin="601,100,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label Content="Срок работы&#xD;&#xA;" HorizontalAlignment="Left" Margin="470,98,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.363,0.402"/>
+        <Label Content="Задание 5" HorizontalAlignment="Left" Margin="661,76,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF4DF35A"/>
+        <Label Content="Ответ" HorizontalAlignment="Left" Margin="612,148,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

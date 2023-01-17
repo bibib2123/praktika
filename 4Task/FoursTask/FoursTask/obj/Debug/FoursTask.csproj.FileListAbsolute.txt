@@ -1,0 +1,16 @@
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\bin\Debug\FoursTask.exe.config
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\bin\Debug\FoursTask.exe
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\bin\Debug\FoursTask.pdb
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.AssemblyReference.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\MainWindow.g.cs
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\App.g.cs
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask_MarkupCompile.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask_MarkupCompile.lref
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\MainWindow.baml
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.g.resources
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.Properties.Resources.resources
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.GenerateResource.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.csproj.CoreCompileInputs.cache
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.exe
+C:\Users\aksen\OneDrive\Рабочий стол\лабараторки\FoursTask\FoursTask\obj\Debug\FoursTask.pdb
